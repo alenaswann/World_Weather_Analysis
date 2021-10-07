@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World Weather Analysis
+### The PlanMyTrip app is designed to help travelers plan their ideal trip by analyzing the current weather conditions of potential travel destinations. Travelers can input their preferred minimum and maximum temperatures to receive potential vacation destinations in cities with the sought after temperatures. The traveler can then select four cities and receive a travel itinerary including a hotel recommendation, each city's current weather condition, and a travel route map from city to city.
